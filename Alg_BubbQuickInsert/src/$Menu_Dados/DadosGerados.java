@@ -3,7 +3,7 @@ package $Menu_Dados;
 public class DadosGerados {
 	public int[] random(){
 		
-		//8350 elementos
+		//Há 8350 elementos neste vetor
 		
 		int vetor[] = {602, 748, 937, 69, 35, 500, 14, 900, 940, 476, 324, 
 				888, 63, 158, 499, 417, 918, 567, 188, 753, 514, 
