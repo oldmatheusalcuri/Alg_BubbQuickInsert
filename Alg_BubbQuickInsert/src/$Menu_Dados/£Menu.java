@@ -7,7 +7,7 @@ import BubbleSort.Bubble;
 import InsertionSort.Insertion;
 import QuickSort.Quick;
 
-public class £Menu {
+public class Â£Menu {
 	
 	//static int[] vetorNum = null;
 	@SuppressWarnings("static-access")
@@ -44,7 +44,7 @@ public class £Menu {
 					
 					long tempoFinalb = System.currentTimeMillis();
 					System.out.println("----------------------------------------------------------------");
-					System.out.println("Tempo de execução do BubbleSort: " + (tempoFinalb - tempoInicialb) + "ms.");
+					System.out.println("Tempo de execuï¿½ï¿½o do BubbleSort: " + (tempoFinalb - tempoInicialb) + "ms.");
 					System.out.println("----------------------------------------------------------------");
 
 					String horaF = hora();
@@ -66,7 +66,7 @@ public class £Menu {
 					
 					long tempoFinalq = System.currentTimeMillis();
 					System.out.println("----------------------------------------------------------------");
-					System.out.println("Tempo de execução do QuickSort: " + (tempoFinalq - tempoInicialq) + "ms.");
+					System.out.println("Tempo de execuï¿½ï¿½o do QuickSort: " + (tempoFinalq - tempoInicialq) + "ms.");
 					System.out.println("----------------------------------------------------------------");
 					
 					horaF = hora();
@@ -86,7 +86,7 @@ public class £Menu {
 					
 					long tempoFinali = System.currentTimeMillis();
 					System.out.println("----------------------------------------------------------------");
-					System.out.println("Tempo de execução do InsertionSort: " + (tempoFinali - tempoIniciali) + "ms.");
+					System.out.println("Tempo de execuï¿½ï¿½o do InsertionSort: " + (tempoFinali - tempoIniciali) + "ms.");
 					System.out.println("----------------------------------------------------------------");
 					
 					horaF = hora();
